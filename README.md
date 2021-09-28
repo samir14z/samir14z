@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samir14z
 - 👀 I’m interested in software development and cybersecurity.
-- 🌱 I’m currently learning android development.
+- 🌱 I’m currently working at hertzsoft.
 - 💞️ I’m looking to collaborate on CTF(capture the flag) and Hackathon.
 - 📫 How to reach me email- samiransari489@gmail.com
 <!---
